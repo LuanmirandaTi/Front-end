@@ -13,8 +13,6 @@ Criei um site completo de uma pousada fictícia, aplicando conceitos de HTML5 e 
 🧠 Tudo foi feito com atenção aos detalhes no VSCode, testando em tempo real no navegador.
 
 🔗 Projeto publicado com GitHub Pages:
-👉 luanmirandati.github.io/Front-end
+👉 [luanmirandati.github.io/Front-end](https://luanmirandati.github.io/Front-end/)
 
-📂 Repositório com os arquivos e README explicativo:
-👉 github.com/LuanmirandaTi/Front-end
 ## 📁 Estrutura de pastas
